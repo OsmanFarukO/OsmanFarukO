@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OsmanFarukO
-- 👀 I'm DevOps 
+- 👀 I'm DevOps Engineer
 - 🌱 I’m currently working on k8s projects 
 
 <!---
